@@ -47,11 +47,11 @@ export default async function Page() {
                   className="absolute inline-flex w-full h-full duration-150 bg-green-400 rounded-full opacity-75 animate-ping"></span><span
                     className="relative inline-flex w-3 h-3 bg-green-400 rounded-full"></span></span> </span></div>
             <div className="ml-4 mr-auto text-left">
-              <h4 className="font-semibold">Katrina Sten <span
+              <h4 className="font-semibold">Katia <span
                 className="px-2 py-1 text-sm text-green-500 bg-green-100 rounded-full shadow-green-400">Online Now</span>
               </h4>
               <p className="text-gray-500 text-md sm:text-lg">
-                Personal Fitness Trainer in {' '}
+                Babysitter in {' '}
                 <span>
                   London {' '}
                   <Image alt="GB flag" src="https://flagcdn.com/gb.svg" width="24" height="4" decoding="async" data-nimg="1"
@@ -84,7 +84,7 @@ export default async function Page() {
           </div>
           <div className="p-4 space-y-4 rounded-b-lg flexborder-b bg-gray-50">
             <h4 className="font-semibold text-left">My Links</h4>
-            <a href="https://5vpe.short.gy/X5CXbd">
+            <a href="https://beb2.short.gy/aJDbkR">
               <button
                 className={`z-10 w-full py-3 mt-4 font-medium tracking-wide text-white transform shadow  bg-sky-500 rounded-lg hover:-translate-y-0.5 duration-150 hover:shadow-xl`}>
                 OnlyFans
