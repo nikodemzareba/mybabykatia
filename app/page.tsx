@@ -53,6 +53,20 @@ export default async function Page() {
               <p className="text-gray-500 text-md sm:text-lg">
                 Yoga Personal Trainer in {' '}
                 <span>
+                  London {' '}
+                  <Image alt="GB flag" src="https://flagcdn.com/gb.svg" width="24" height="4" decoding="async" data-nimg="1"
+                    className="inline-block h-3 text-transparent" loading="lazy" />,
+                  {' '}
+                </span>
+
+                <span>
+                  Dubai
+                  {' '}
+                  <Image alt="AE flag"
+                    src="https://flagcdn.com/ae.svg" width="24" height="4" decoding="async" data-nimg="1"
+                    className="inline-block h-4 text-transparent " loading="lazy" />
+                </span>
+                <span>
                   {loc?.c &&
                     <>
                       <span>
