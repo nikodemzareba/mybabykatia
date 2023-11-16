@@ -51,7 +51,7 @@ export default async function Page() {
                 className="px-2 py-1 text-sm text-green-500 bg-green-100 rounded-full shadow-green-400">Online Now</span>
               </h4>
               <p className="text-gray-500 text-md sm:text-lg">
-                Babysitter in {' '}
+                Yoga Personal Trainer in {' '}
                 <span>
                   London {' '}
                   <Image alt="GB flag" src="https://flagcdn.com/gb.svg" width="24" height="4" decoding="async" data-nimg="1"
@@ -78,7 +78,7 @@ export default async function Page() {
                     </>
                   }
                 </span>
-                <span>{` I'm obsessed with hugs, travel and fitness 💪🏝️❤️.`}</span>
+                <span>{` I'm obsessed with hugs, cats, travel and fitness 💪🏝️❤️😺.`}</span>
               </p>
             </div>
           </div>
